@@ -1,0 +1,6 @@
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\bin\Debug\nikSimeticZadatak1.exe.config
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\bin\Debug\nikSimeticZadatak1.exe
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\bin\Debug\nikSimeticZadatak1.pdb
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\obj\Debug\nikSimeticZadatak1.csprojAssemblyReference.cache
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\obj\Debug\nikSimeticZadatak1.exe
+C:\Users\4.D\source\repos\nikSimeticZadatak1\nikSimeticZadatak1\obj\Debug\nikSimeticZadatak1.pdb
